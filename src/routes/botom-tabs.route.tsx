@@ -17,7 +17,7 @@ export function BottonTabsRoutes(){
                     tabBarIcon:({color, size}) => (
                         <MaterialCommunityIcons 
                             name='home'
-                            color='blue'
+                            color='#6d8ce8'
                             size={size}
                         />
                     )
@@ -31,8 +31,8 @@ export function BottonTabsRoutes(){
                     title: 'Skill',
                     tabBarIcon:({color, size}) => (
                         <MaterialCommunityIcons 
-                            name='code-braces'
-                            color='blue'
+                            name='code-json'
+                            color='#6d8ce8'
                             size={size}
                         />
                     )
